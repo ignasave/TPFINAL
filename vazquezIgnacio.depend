@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1593068357 source:c:\users\ignacio\desktop\tpfinal\vazquezignacio\fechas.c
+	"fechas.h"
+
+1593068357 c:\users\ignacio\desktop\tpfinal\vazquezignacio\fechas.h
+	<stdio.h>
+	<dos.h>
+	<conio.h>
+
+1593072363 source:c:\users\ignacio\desktop\tpfinal\vazquezignacio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"consumos.h"
+	"clientes.h"
+
+1593074311 c:\users\ignacio\desktop\tpfinal\vazquezignacio\consumos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<locale.h>
+	"clientes.h"
+	"fechas.h"
+
+1593072508 c:\users\ignacio\desktop\tpfinal\vazquezignacio\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1593141774 source:c:\users\ignacio\desktop\tpfinal\vazquezignacio\clientes.c
+	"clientes.h"
+
+1593188963 source:c:\users\ignacio\desktop\tpfinal\vazquezignacio\consumos.c
+	"consumos.h"
+
